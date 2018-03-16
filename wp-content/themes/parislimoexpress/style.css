@@ -1,0 +1,29 @@
+/**
+	Theme Name: Paris Limo Express Theme
+*/
+@charset 'utf-8';
+
+
+.service_box{
+	min-height: 219px;
+}
+#menu-main-menu li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 6px 15px;
+	font-size: 14px;
+}
+nav .current-menu-item
+{
+border-bottom: 2px solid #ff9b00;   
+}
+nav li{
+	padding-bottom: 4px !important;
+}
+#menu-main-menu li:last-child a {
+	border: 2px solid #fff !important;
+}
+nav li.current-menu-item:last-child
+{
+border-bottom: none !important;   
+}

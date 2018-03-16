@@ -1,0 +1,98 @@
+body
+{
+    background-color: #fff;
+    color:#333;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+.divider1
+{
+    margin: 10px auto 0;
+}
+.navbar-nav .active a {
+    background: none !important;
+    color: #333 !important;
+    outline: none;
+}
+.contact_title h3
+{
+    color:#333;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+.contact_info p
+{
+    line-height: 2;
+}
+.contact_content
+{
+    margin: 40px 0;
+}
+.side_bar h4, h3
+{
+    color:#333;
+}
+.side_bar h3
+{
+    font-size: 20px;    
+}
+.side_bar .top_finish h3
+{
+    color:#91c645;
+    font-size: 20px;
+}
+.enquiry h3
+{
+    font-size: 20px;
+}
+.enquiry .form-control
+{
+    background-color: #ebebeb;
+    border-radius: 0;
+}
+.enquiry form
+{
+    margin: 30px 0;
+}
+.enquiry form label
+{
+    font-size: 14px;
+}
+.footer {
+    padding: 40px 0 20px;
+    background: #fff;
+    color: #000;
+}
+.contact_foot_content
+{
+    width:600px;
+    margin: 30px auto;
+}
+.contact_foot_content p
+{
+    font-size: 16px;
+}
+#myNavbar ul li:hover > ul {
+    display: block;
+    background: #333;
+    padding: 5px 20px;
+    color: #fff;
+    z-index: 9999;
+    width: 100%;
+}
+#myNavbar ul li:hover > ul:before
+{
+    content: '';
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #333;
+    top: -9px;
+    left: 35px;
+}
+.sub-menu .active a
+{
+    color:#fff !important;
+}

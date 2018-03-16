@@ -1,0 +1,20 @@
+@media(max-width:767px)
+{
+    .car_image img
+    {
+        width:100%;
+    }
+    .book_now_section img
+    {
+        width:100%;
+    }  
+    .book_now_content {
+        margin: 0px auto; 
+    }
+}
+@media(min-width:768px) and (max-width:993px)
+{
+    .our_gallery img {
+        width: 100% !important;
+    }   
+}

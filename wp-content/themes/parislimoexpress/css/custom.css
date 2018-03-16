@@ -1,0 +1,905 @@
+body
+{
+   overflow-x: hidden;   
+}
+.book_now
+{
+    border:1px solid #fff;
+    padding: 6px 10px !important;
+}
+header .btn .btn-primary
+{
+    background-color: transparent !important;
+    border-color: transparent !important;
+    color:#fff !important;
+}
+.logo
+{
+    width:100px;
+    margin-top: 22px;
+}
+.mx-auto
+{
+    padding-top: 20px;
+}
+.divider
+{
+    background-color: #fff;
+    height: 1px;
+    width:310px;
+    margin: 0 auto;   
+}
+.divider1
+{
+    background-color: #fff;
+    height: 1px;
+    width:210px;
+    margin: 0 auto;   
+}
+.divider2
+{
+    background-color: #ff9b00;
+    height: 2px;
+    width:100px;
+    margin: 0 auto;   
+}
+/*.text_cab
+{
+    padding-left: 44px;
+}*/
+.header_service
+{
+    color:#ff9b00;
+    font-size: 24px !important;    
+}
+.banner_content
+{
+    padding-top: 100px;
+    z-index: 999;
+    position: relative;
+}
+.company_content
+{
+    /*padding-top:100px;*/
+    z-index: 999;
+    position: relative;
+}
+.navbar-shrink .book_now
+{
+    border-color: #fff;
+}
+.our_fleet
+{
+    padding: 40px 0px 200px;
+}
+.text-orange
+{
+     color:#ff9b00;
+     font-size: 39px;
+}
+.our_fleet .text-white
+{
+    font-size: 48px;
+    text-transform: uppercase;
+}
+.our_fleet .text-faded
+{
+    font-size: 14px !important;
+    padding-top: 10px;
+}
+.navbar-shrink .logo {    
+    margin-top: 0px; 
+}
+.car_image img
+{
+    width: 650px;
+    margin: -140px auto 0px;
+    display: block;
+}
+.service-box 
+{
+    height: 200px;
+}
+.service-box img
+{
+    height: 200px;
+}
+.services h3
+{
+    font-size: 20px;
+}
+.services 
+{
+    padding: 0px;
+}
+.book_now_section 
+{
+    padding: 0px 20px;
+}
+.book_now_section p {
+    font-size: 11px;
+    color: #333;
+}
+.book_now_content
+{
+   margin: 38px auto;
+}
+.fleet_section .book_now_content
+{
+    margin: 0px auto 17px;
+}
+.book_now_content h3
+{    
+    font-size: 24px;
+}
+.more_details
+{
+  margin-top: 15px;  
+}
+.price_head
+{
+    font-size: 16px;
+    color:#656565;
+}
+.book_now_section img
+{
+    width:100%;
+}
+.book_now_link
+{
+    border:2px solid #ff9b00;
+    padding: 6px 30px;
+    text-decoration: none !important;
+}
+.our_gallery
+{
+    padding: 80px 0 40px !important;
+}
+.our_services_header
+{
+    margin-bottom: 20px;
+}
+.service_box
+{
+    background-color: #fff;
+    box-shadow: 3px 2px 3px #888888;
+    padding: 20px 10px;
+    border-radius: 2px;
+}
+.service_tittle
+{
+    margin-top: 20px;   
+}
+.service_tittle h5
+{
+    font-size: 16px;   
+}
+.service_content
+{
+    font-size: 14px;
+}
+.sec1
+{
+    margin-bottom: 40px;
+}
+.icon img
+{
+    height: 48px;
+}
+.view_more
+{
+    background-color: #fff;
+    border:1px solid #ff9b00;
+    padding: 8px 20px;
+    color: #333;
+    text-decoration: none !important;
+    text-align: center;
+}
+.view_btn
+{
+    margin: 30px auto 0px;
+}
+.our_gallery img
+{
+    width: 350px;
+}
+.slide h5
+{
+    font-size: 16px;    
+    margin-top: 10px;
+}
+.footer
+{
+    background-color: #eaeef3;
+    padding: 80px;
+}
+.footer_box
+{
+    background-color: #fff;
+    border: 1px solid #f1f1f1;
+    padding: 20px 10px;
+    border-radius: 2px;
+}
+.footer_tittle
+{
+    margin-top: 20px;   
+}
+.footer h5
+{
+    font-size: 16px;    
+    color:#ff9b00;
+}
+.footer_content
+{
+    font-size: 14px;
+}
+.icon_list
+{
+    background-color: #242830;
+    border-radius: 50%;
+    padding: 10px;
+}
+.soical_icon
+{
+    margin-top: 50px;
+}
+.icon_list{
+    margin-left: 15px;
+}
+.icon_list img
+{
+    margin-top: -2px;
+    margin-left: 1px;
+    margin-right: -3px;
+    text-decoration: none;
+
+}
+.copy{
+    
+    background-color: #242830;
+    padding: 15px;
+    color:#fff;
+}
+.copy p
+{
+    margin-bottom: 0 !important;
+}
+#slide00 h3
+{
+    font-size:16px !important;
+}
+.about_content
+{
+    padding-top: 100px;   
+}
+/*.fleet_list
+{
+    border:1px solid #5a5f61;   
+}*/
+.fleet_section img {
+    width: 100%;
+}
+.fleet_section .mx-auto
+{
+    padding: 0px 20px;
+}
+.fleet_foot
+{
+    background-color: #5a5f61;
+    padding: 20px;
+    color: #fff;
+}
+.car_features
+{
+    padding:0px;
+}
+.car_feature_btn .btn
+{
+    background-color: #ff9b00 !important;
+    color:#fff;
+    margin-bottom: 20px;
+}
+.fleet_foot .btn-primary {
+    background-color: #ff9b00;
+    border: 1px solid #ff9b00 !important;
+    border-radius: 0px !important;
+    padding: 5px 20px;
+    font-size: 15px;
+    color:#fff !important;
+}
+.fleet_list_details .list-unstyled
+{
+    line-height: 2.5;
+}
+.fleet_list
+{
+    /*margin-bottom:50px;*/
+    padding: 60px 0px;
+    border-bottom: 1px solid #ddd;
+}
+.fleet_info h4
+{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.fleet_info_list
+{
+    padding: 15px 0px;
+}
+.fleet_info_list li
+{
+    margin: 20px auto;
+}
+.fleet_section h3,h4,h5
+{
+    color:#ff9b00;
+}
+.vol_prive
+{
+    background-color: #020505;
+    color:#fff;
+    padding: 30px;
+}
+.airport_list
+{
+    padding-top: 50px;
+}
+.vol_divider
+{
+    background-color: #818282;
+    width:180px;
+    height: 1px;
+    margin: 0 auto 20px;    
+}
+.vol_prive_above
+{
+    background-color: #818282;
+    width: 550px;
+    height: 1px;
+    margin: 0 calc(100% - 935px);
+    position: absolute; 
+}
+.head_clr strong
+{
+    color:#c7aa7e;
+}
+.book_now_pg
+{
+    padding: 20px;
+}
+.book_divide
+{
+    background-color:#ff9b00;
+    height: 2px;
+    width:120px;
+}
+.form_content
+{
+    border: 1px solid #ddd;
+    margin-top: 25px;
+}
+.form_header
+{
+    background-color: #5a5f61;
+    padding: 8px 15px;
+}
+.form_footer
+{
+    background-color: #5a5f61;
+    padding:15px;
+}
+.form_footer .btn
+{
+    margin: 0px 5px;
+    font-size: 14px;
+    color: #fff !important;
+    cursor: pointer;
+}
+.form_header h4
+{    
+   color:#fff !important;
+   line-height: 1.5;
+   font-size: 17px;
+   margin: 0px;
+}
+.no_icon
+{
+    border: 1px solid #fff;
+    text-align: center;
+    padding: 1px 2px;
+    margin-right: 10px !important;
+    margin-left: 1px;
+    padding-left: 7px;
+}
+.frm_field
+{
+    padding: 20px;
+}
+.form-control
+{
+    outline: 0;
+}
+.frm_field .row
+{
+    margin-bottom: 10px;
+}
+.help-block
+{
+ color:red;   
+}
+.contact_divide
+{
+    background-color: #818282;
+    width: 350px;
+    height: 1px;
+    margin: 30px auto;
+}
+.contact_form .form-control
+{
+    border-radius: 0px;
+    background-color: #000 !important;
+    border-color: #000 !important;
+    color: #fff !important;
+    padding: 1rem .75rem !important;
+    opacity: 0.7;
+}
+::placeholder
+{
+    color:#fff !important;
+}
+.contact_form .btn
+{
+    color: #000 !important;
+    /* border-color: #fff !important; */
+    border: 1.5px solid #000 !important;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.fleet_info
+{
+    font-size: 12px;
+}
+.datepicker-days
+{
+    font-size: 12px;
+}
+.form-control
+{
+    font-size: 12px;
+}
+.more_details .btn
+{
+    background-color: #ff9b00 !important;
+    color:#fff;
+    font-size: 14px;
+    margin-left: 10px;
+    padding: 15px auto;
+}
+.more_details .btn:hover
+{
+  background-color: #333 !important;
+}
+.book_btn
+{
+    margin-right: 10px;
+}
+.more_btn .btn
+{
+   background-color: transparent !important;  
+   border:1px solid #ff9b00 !important;
+   color: #333 !important;
+}
+.more_btn .btn:hover
+{
+   background-color: #ff9b00 !important;
+   color:#fff !important;
+}
+.fleet_list_details img {
+    width:100% !important;
+    margin: 0 auto;
+    display: block;
+}
+.fleet_list_details .mx-auto
+{
+    padding: 0px;
+    margin-bottom: 20px;
+}
+.book_now_head .contact_head, h1
+{
+    font-size: 24px;
+    letter-spacing: 1.2px;
+}
+b,strong
+{
+    font-style: normal !important;
+}
+.fleet_bg p
+{
+    font-size:14px !important;
+}
+.company_bg p
+{
+    font-size:14px !important;
+}
+.details_img img
+{
+    width:100% !important;
+}
+.hidden-max
+{
+    display: none;
+}
+@media(max-width:767px)
+{
+    .simple-slide-item-list
+    {
+        display: block !important;
+    }
+    .book_now {
+        border: 0;
+        padding: 0 !important;
+    }
+    #mainNav .navbar-nav>li.nav-item>a.nav-link.active, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active {
+        color: #333;
+        background-color: transparent;
+        border-bottom: 2px solid #ff9b00;
+    }
+    .mobile_logo
+    {
+        width:79px;        
+        display: block !important;
+    }
+    .logo
+    {
+        display: none;
+    }
+    .book_now
+    {
+        margin-top: 5px;
+    }
+    #bg-video
+    {
+        height: auto !important;
+        width:auto !important;
+    }
+    video
+    {
+        object-fit:cover !important;
+    }
+    .banner_content {
+        padding: 100px 0px !important;
+        z-index: 999;
+        position: relative;
+    }
+    .banner_content .mx-auto
+    {
+        padding: 0px;
+    }
+   .our_fleet .text-faded {
+        font-size: 12px;
+    }
+    /*Company Page*/
+    .company_bg{
+        background-position-y: 0px;
+    }
+    .fleet_section
+    {
+        padding: 20px;
+    }
+    .fleet_list {
+        margin-bottom: 50px;
+        padding: 20px 0px 0px;
+    }    
+    .fleet_section h3, h4, h5 {
+        color: #ff9b00;
+        font-size: 19px;
+    }
+    .price_head
+    {
+        text-align: left;
+    }
+    .fleet_list .list-unstyled
+    {
+       text-align: left;
+    }   
+    .fleet_foot 
+    {
+        text-align: left;
+    }
+    .fleet_foot .list
+    {
+        text-align: center !important;
+        list-style: none;
+        padding: 0px;
+    }
+    #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus
+    {
+        text-align: center;
+    }
+    .head_clr strong {
+        color: #c7aa7e;
+        font-weight: normal;
+    }
+    h1,h2
+    {
+        font-size: 30px !important;
+    }
+    .vol_prive_above {
+        background-color: #818282;
+        width: 100%;
+        height: 1px;
+        margin: 0 auto;
+        position: absolute;
+    }
+    .more_details .btn
+    {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .more_details
+    {
+        text-align: left;
+    }
+    .book_btn {
+         margin-right:0px; 
+    }
+    .our_gallery img {
+        width: 100%;
+    }
+    .details_img
+    {
+        margin-top: 77px;
+    }
+    .our_services {
+        padding-bottom: calc(10rem - 56px);
+        background-image: url(../img/our_service.jpg);
+        background-position: center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        padding: 43px !important;
+        background-repeat: no-repeat;
+        /* min-height: 1500px; */
+    }
+    .contact_frm_bg {
+        background-image: url(../img/contact_support.png);
+        background-position: right;
+        -webkit-background-size: cover !important;
+        -moz-background-size: cover !important;
+        -o-background-size: cover;
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: #fff;
+        padding: 50px 0px;
+    }
+    .hidden-max{
+        display: block;
+    }
+    .hidden-xs
+    {
+        display: none;
+    }
+    .company_section {
+        padding-top: 10rem;
+        padding-bottom: calc(10rem - 520px) !important;
+        background-image: url(../img/company_bg.jpg);
+        background-position: initial;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* padding-bottom: 515px; */
+        min-height: 1250px;
+    }
+	
+	
+	.book_now_section img {
+    width: 100%;
+    height: auto;
+}
+.footer
+{
+    
+    padding: 20px;
+}
+.logo {
+    display: block;
+    width: 50px;
+    margin-top: 0px;
+}
+#mainNav {
+    border-bottom: 1px solid rgba(33,37,41,.1);
+    background-color: #000;
+    /* font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; */
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    transition: all .2s;
+}
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background: #fff;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+nav li
+{
+    text-align: center;
+    padding: 14px;
+}
+
+.company_section {
+    padding-top: 20px;
+    padding-bottom: calc(10rem - 520px) !important;
+    background-image: url(../img/company_bg.jpg);
+    background-position: initial;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* padding-bottom: 515px; */
+    min-height: 1250px;
+}
+.more_btn .btn {
+    background-color: transparent !important;
+    border: 1px solid #ff9b00 !important;
+    color: #333 !important;
+    width: 114px;
+    padding: 5px 0px;
+    margin-left: 11px;
+}
+.contact_head {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 0px);
+    background-image: url(../img/book_now_bg.jpg);
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.book_now_head {
+padding-top: 10rem;
+padding-bottom: calc(10rem - 0px);
+background-image: url(../img/book_now_bg.jpg);
+background-position: center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.more_btn .btn {
+background-color: transparent!important;
+border: 1px solid #ff9b00!important;
+color: #333 !important;
+width: 114px;
+margin-left: 11px !important;
+padding: 5px 0px;
+}
+
+.footer {
+padding: 20px !important;
+}
+
+.details_img {
+margin-top: 60px;
+}
+
+
+company_section {
+padding-top: 10px;
+padding-bottom: calc(10rem - 520px) !important;
+background-image: url(../img/company_bg.jpg);
+background-position: initial;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
+padding-bottom: 515px;
+min-height: 1500px;
+}
+.company_section {
+padding-top: 10px;
+padding-bottom: calc(10rem - 520px) !important;
+background-image: url(../img/company_bg.jpg);
+background-position: initial;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
+padding-bottom: 515px;
+min-height: 1500px;
+}
+
+
+}
+
+@media(min-width:768px) and (max-width:991px)
+{
+    .mobile_logo
+    {
+        width:79px;        
+        display: block !important;
+    }
+    .logo
+    {
+        display: none !important;
+    }
+    .vol_prive_above {
+        background-color: #818282;
+        width: 100%;
+        height: 1px;
+        margin: 0 auto;
+        position: absolute;
+    }
+    #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
+        text-align: center;
+    }
+    #mainNav .navbar-nav>li.nav-item>a.nav-link.active, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active {
+         color: #333;
+        background-color: transparent;
+        border-bottom: 2px solid #ff9b00;
+    }
+    .details_img
+    {
+        margin-top: 77px;
+    } 
+		#mainNav {
+   border-bottom: 1px solid rgba(33,37,41,.1);
+   background-color: #000;
+   /* font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; */
+   -webkit-transition: all .2s;
+   -moz-transition: all .2s;
+   transition: all .2s;
+}
+.navbar-toggler {
+   padding: .25rem .75rem;
+   font-size: 1.25rem;
+   line-height: 1;
+   background: #fff;
+   border: 1px solid transparent;
+   border-radius: .25rem;
+}
+nav li
+{
+   text-align: center;
+   padding: 14px;
+}
+#mainNav {
+border-color: #ddd;
+background-color: #000;
+padding: .5rem 1rem;
+} 
+}
+
+
+.footer {
+    background-color: #a8bad0;
+    padding: 80px;
+}
+.more_btn .btn {
+    background-color: transparent !important;
+    border: 1px solid #ff9b00 !important;
+    color: #333 !important;
+    width: 114px;
+    margin-left: 30px;
+    padding: 5px 0px;
+}
+.car_feature_btn .btn {
+    background-color: #ff9b00 !important;
+    color: #fff;
+    margin-bottom: 20px;
+    width: 114px;
+}
+.book_now_section p {
+font-size: 13px !important;
+color: #333;
+}
